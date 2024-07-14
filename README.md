@@ -1,2 +1,3 @@
 # Voice-AI-Butler
-See readme for details
+This is a personally produced voice AI butler that can recognize the speaker's identity through voice recognition via pre-recognition tasks. It arranges the schedule according to the user's unique daily tasks and allows interaction via voice at any time to ask any questions. The robot has a memory function, clear modules, and high scalability. When you choose not to interact with it, the robot performs its own daily tasks, which can be self-set. Additionally, each time you interact with it, your current mood will be recognized, influencing the robot's tone of response.
+I hope this small project can help those in need and make a small contribution to AGI!
